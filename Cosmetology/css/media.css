@@ -1,0 +1,273 @@
+@media screen and (max-width: 2000px) {
+    .container {
+        width: 1000px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 1200px) {
+    .container {
+        width: 900px;
+    }
+   
+.btn-prays1 {
+    background: none;
+    color: black;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.btn-prays2 {
+    background: none;
+    color: black;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+
+}
+
+
+
+@media screen and (max-width: 992px) {
+    .container {
+        width: 720px;
+    }
+
+.photo {
+    justify-content: center;
+    display: flex;
+}
+
+.about__me {
+	justify-content: center;
+}
+
+.achivment {
+	margin: 0;
+	margin-top: 50px;
+}
+
+.works__item {
+	text-align: center;
+    width: 258px;
+    margin-bottom: 10px;
+}
+
+.works {
+	text-align: -moz-center;
+	display: flow-root;
+	text-align: -webkit-center;
+	margin-bottom: 20px;
+}
+.btn-prays1 {
+    background: none;
+    color: black;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.btn-prays2 {
+    background: none;
+    color: black;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+
+
+.three {
+	justify-content: center;
+}
+
+.right {
+	margin-left: 0;
+}
+
+.face-head {
+    justify-content: center;
+}
+
+.face {
+	margin-right: 0;
+}
+ }
+
+
+   @media screen and (max-width: 768px) {
+    .container {
+        width: 540px;
+    }
+	
+.goto {
+	margin-top: 40px;
+}
+
+.up {
+	margin-left: 100px;
+}
+
+
+
+
+}
+	
+    @media screen and (max-width: 576px) {
+    .container {
+        width: 90%;
+    }
+
+	
+	.btn-prays1 {
+	background: none;
+    color: black;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+.btn-prays2 {
+	background: none;
+    color: black;
+    margin-right: 0;
+    font-weight: bold;
+}
+
+	.menu {
+		display: flow-root;
+		text-align: center;
+	}
+
+	.menu__item {
+		border: 1px solid #f4810b;
+	    border-radius: 50px;
+	    margin-bottom: 5px;
+	    background: #85786f;
+	}
+	.works__item {
+	    width: 258px;
+	    margin-bottom: 10px;
+
+}
+
+	.Im {
+		margin-right: 0px;
+	}
+
+	.photo {
+		display: flow-root;
+	}
+	
+	.achiv__text {
+     width: unset; 
+     margin-left: 0px;
+ }
+
+ .achiv {
+    display: flow-root;
+    text-align: center;
+}
+
+.tele {
+    font-size: 16px;
+    margin-top: 20px;
+    }
+
+    .contacts {
+    text-align: center;
+}
+.contacts-one {
+    display: flow-root;
+    }
+
+    .down {
+    	display: flow-root;
+    	text-align: center;
+    	padding-top: 20px;
+    }
+
+    .up {
+    	margin-left: 0;
+    }
+	 .goto {
+	 	margin-top: 30px;
+	 }
+.br {
+	width: 283px;
+}
+
+    
+
+.brovi__brovi {
+    width: auto;
+}
+
+.box-modal {
+	width: 280px;
+	
+}
+
+.list-price {
+	padding: 0;
+    font-size: 28px;
+    padding-bottom: 20px;
+}
+.mezo1 {
+    margin-top: 20px;
+}
+
+.offer-text {
+    font-size: 22px;
+    }
+
+
+    .intimn-zone {
+    margin-top: 27px;
+}
+
+.finger {
+    margin-top: 58px;
+}
+
+.kist {
+	    margin-top: 25px;
+}
+
+.vpadiny {
+	margin-top: 25px;
+}
+
+.siski {
+	margin-top: 25px;
+}
+
+.spina {
+	margin-top: 25px;
+}
+
+.sheya {
+	margin-top: 25px;
+}
+
+.eight {
+    margin-top: 50px;
+}
+.pereorb {
+	margin-top: 25px;
+}
+
+.kraska {
+	margin-top: 25px;
+}
+
+#thx {
+    background: #fff;
+    position: absolute;
+    left: 50%;
+    margin-left: -140px;
+    top: 50%;
+    padding: 20px;
+    margin-top: -20px;
+    width: 280px;
+}
